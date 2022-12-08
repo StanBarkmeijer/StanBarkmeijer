@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning to work with Amazon Web Services<br>💬 Ask me about anything<br>⚡ Fun fact: I own more than 15 pairs of shoes
+🌱 I’m currently learning to work with Amazon Web Services<br>💬 Ask me about anything<br>⚡ Fun fact: I own more than 20 pairs of shoes
 
 
 ## 🌐 Socials:
@@ -11,9 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=StanBarkmeijer&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StanBarkmeijer&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StanBarkmeijer&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=StanBarkmeijer&icon=1&color=1)](https://visitcount.itsvg.in)
